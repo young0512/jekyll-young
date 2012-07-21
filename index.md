@@ -1,7 +1,11 @@
 ---
 layout: page
 title: Young's Blog
-tagline: 进步每一天
+tagline: "进步每一天"
+description: ""
+keywords: ""
+//group: navigation
+//nav_tag : "首页"
 ---
 {% include JB/setup %}
 
